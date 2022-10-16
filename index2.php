@@ -6,6 +6,7 @@ function bilangan($b1,$b2){
         echo $b2;
     }
 }
+
 $bil1 = 3;
 $bil2 =2;
 echo "Bilangan 1 = ".$bil1;
